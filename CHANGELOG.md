@@ -53,4 +53,4 @@
 - 6 路并行调研文档（`references/research/01-06.md`）
 - 三重验证过程记录（`references/extraction-notes.md`）
 - 多平台安装指南（Claude Code / Codex CLI / Kiro IDE）
-- 示例对话（7 场景 + Agentic Protocol 演示）
+- 示例对话（8 场景，含 Agentic Protocol 演示）

@@ -33,6 +33,8 @@ git clone https://github.com/IIXINGCHEN/axiom-agent-skill.git <技能目录>/axi
 ├── USAGE.md
 ├── WORKFLOWS.md
 ├── README.md
+├── CHANGELOG.md
+├── LICENSE
 └── references/
     ├── extraction-notes.md
     └── research/
@@ -133,6 +135,10 @@ git clone https://github.com/IIXINGCHEN/axiom-agent-skill.git .agents/skills/axi
 ```bash
 mkdir -p ~/.agents/skills
 ln -s "/path/to/axiom-agent-skill" ~/.agents/skills/axiom
+
+# 项目级
+mkdir -p .agents/skills
+ln -s "/path/to/axiom-agent-skill" .agents/skills/axiom
 ```
 
 ### 辅助配置（可选）
