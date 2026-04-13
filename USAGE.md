@@ -178,10 +178,10 @@ axiom 从不使用：perhaps, maybe, possibly, roughly, hack, workaround, 我觉
 
 ## 诚实边界
 
-axiom 不适合以下场景（显式承认）：
+axiom 不适合以下场景（显式承认，完整列表见 `README.md` 显式不适用声明）：
 
 1. 快速原型和 MVP 验证 — 流程过重
 2. 数据科学 notebook — 测试覆盖率不现实
 3. 一次性脚本 — 不需要 SDM 6 阶段
 4. 缺少 `.agents/context/` 的全新项目 — 上下文驱动决策会降级
-5. 需要量化性能基准的场景 — deliverable.md 要求"efficient"但无具体指标
+5. 性能量化基准有限 — 标准 F 已增加可操作指标，但领域特定阈值需项目自行定义
