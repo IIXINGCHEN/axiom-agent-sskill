@@ -103,7 +103,7 @@ SKILL.md 附录和研究文档中使用以下路径占位符, 指向项目外部
 |--------|------|---------|
 | `<AXIOM_HOME>` | axiom 命名空间规范目录 (29 个源文件) | 安装旧版 axiom skill 后自动生成 |
 | `<AXIOM_SKILL>` | 旧版 axiom SKILL 项目 | 本地项目目录，非公开仓库 |
-| `<NUWA_SKILL>` | nuwa-skill 方法论项目 | 本地项目目录，非公开仓库 |
+| `<NUWA_SKILL>` | nuwa-skill 方法论项目 | [github.com/alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
 | `<CLAUDE_MD>` | 全局 Agent 约束配置 | 用户自行维护的全局配置文件 |
 
 > **注意**: 研究文档中的行号引用基于源文件快照，仅供追溯调研过程。使用蒸馏版无需访问这些外部路径。

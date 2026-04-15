@@ -1,7 +1,7 @@
 # 三重验证过程记录
 
 > 记录日期：2026-04-13
-> 方法论来源：`<NUWA_SKILL>/references/extraction-framework.md`
+> 方法论来源：[nuwa-skill/references/extraction-framework.md](https://github.com/alchaincyf/nuwa-skill/blob/main/references/extraction-framework.md)
 > **行号引用声明**: 本文件及 `research/` 目录下的研究文档中引用的源文件行号 (如 `L83`, `L168-176`) 为调研时 `<AXIOM_HOME>/` 源文件的快照位置。源文件后续修改可能导致行号偏移, 不保证长期准确。建议以章节标题为辅助定位依据。
 
 ## 候选心智模型清单
